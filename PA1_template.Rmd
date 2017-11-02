@@ -9,7 +9,7 @@ subtitle: 'An Analysis of Steps Walked Over a Two Month Period: Oct-Nov 2012'
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(fig.path = "Figures/", echo = TRUE)
 ```
 
 ## Project Overview
