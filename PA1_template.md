@@ -5,7 +5,6 @@ date: "November 1, 2017"
 output:
   html_document:
     df_print: paged
-    keep_md: TRUE
 subtitle: 'An Analysis of Steps Walked Over a Two Month Period: Oct-Nov 2012'
 ---
 
